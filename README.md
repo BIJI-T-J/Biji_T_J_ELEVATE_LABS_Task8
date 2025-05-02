@@ -10,4 +10,4 @@ new column(fiscal_year) in ‘ev_sales_state’ table
 * Created 4 new ‘Calculated Measures’. 
 * Visualized the data using appropriate charts and graphs. 
 * Applied a slicer of fiscal year for analysing the interactive dashboard.
-## BIJI_T_J_task8.pdf
+### More details in the report BIJI_T_J_task8.pdf provided
